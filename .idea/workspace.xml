@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="086be6a4-fa74-4296-b485-e38ae692c89e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Setting up MySQL</find>
+      <find>product</find>
+      <find>Mysql</find>
+      <find>user</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>topic</replace>
+      <replace>player</replace>
+    </replaceStrings>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g9ynyfaa8HvaF3QVIjbsKZVsTF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.learning.sparkstreaming.chapter6" />
+      <recent name="com.learning.sparkstreaming.chapter5" />
+      <recent name="com.learning.sparkstreaming.chapter4" />
+      <recent name="com.learning.sparkstreaming.chapter3" />
+      <recent name="com.learning.sparkstreaming.chapter2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Dropbox\Dropbox\LinkedIn\Courses\Stream Processing\SparkStreamingPatterns\src\main\java\com\learning\sparkstreaming\chapter6" />
+      <recent name="D:\Dropbox\Dropbox\LinkedIn\Courses\Stream Processing\SparkStreamingPatterns\src\main\java\com\learning\sparkstreaming\chapter5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.WebsiteViewsAnalytics">
+    <configuration name="RunLocalWebServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.sparkstreaming.chapter5.RunLocalWebServer" />
+      <module name="SparkStreamingPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.sparkstreaming.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingAlertsAndThresholds" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.sparkstreaming.chapter3.StreamingAlertsAndThresholds" />
+      <module name="SparkStreamingPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.sparkstreaming.chapter3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingLeaderboards" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.sparkstreaming.chapter4.StreamingLeaderboards" />
+      <module name="SparkStreamingPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.sparkstreaming.chapter4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamingPredictions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.sparkstreaming.chapter5.StreamingPredictions" />
+      <module name="SparkStreamingPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.sparkstreaming.chapter5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebsiteViewsAnalytics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.learning.sparkstreaming.chapter6.WebsiteViewsAnalytics" />
+      <module name="SparkStreamingPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.learning.sparkstreaming.chapter6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WebsiteViewsAnalytics" />
+        <item itemvalue="Application.StreamingPredictions" />
+        <item itemvalue="Application.RunLocalWebServer" />
+        <item itemvalue="Application.StreamingLeaderboards" />
+        <item itemvalue="Application.StreamingAlertsAndThresholds" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="086be6a4-fa74-4296-b485-e38ae692c89e" name="Default Changelist" comment="" />
+      <created>1595699863597</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595699863597</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="935" height="577" key="GridCell.Tab.0.bottom" timestamp="1598329904174">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="935" height="577" key="GridCell.Tab.0.bottom/-348.-697.1280.697/0.23.1280.697@0.23.1280.697" timestamp="1598329904174" />
+    <state width="935" height="577" key="GridCell.Tab.0.center" timestamp="1598329904173">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="935" height="577" key="GridCell.Tab.0.center/-348.-697.1280.697/0.23.1280.697@0.23.1280.697" timestamp="1598329904173" />
+    <state width="935" height="577" key="GridCell.Tab.0.left" timestamp="1598329904172">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="935" height="577" key="GridCell.Tab.0.left/-348.-697.1280.697/0.23.1280.697@0.23.1280.697" timestamp="1598329904172" />
+    <state width="935" height="577" key="GridCell.Tab.0.right" timestamp="1598329904173">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state width="935" height="577" key="GridCell.Tab.0.right/-348.-697.1280.697/0.23.1280.697@0.23.1280.697" timestamp="1598329904173" />
+    <state x="128" y="23" key="SettingsEditor" timestamp="1598192240009">
+      <screen x="0" y="23" width="1280" height="697" />
+    </state>
+    <state x="128" y="23" key="SettingsEditor/-348.-697.1280.697/0.23.1280.697@0.23.1280.697" timestamp="1598192240009" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SparkStreamingPatterns$StreamingAnalytics.ic" NAME="StreamingAnalytics Coverage Results" MODIFIED="1595731443836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.learning.sparkstreaming.chapter2.*</FILTER>
+    </SUITE>
+  </component>
+</project>
